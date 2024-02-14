@@ -1,0 +1,14 @@
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\BLL.dll
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\BLL.pdb
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\obj\Debug\BLL.dll
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\obj\Debug\BLL.pdb
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\AutoMapper.dll
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\DAL.dll
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\EntityFramework.dll
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\DAL.pdb
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\DAL.dll.config
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\AutoMapper.xml
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\bin\Debug\EntityFramework.xml
+C:\Users\mdali\Documents\AIUB Project\HRMS\BLL\obj\Debug\BLL.csproj.CopyComplete
